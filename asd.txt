@@ -1,0 +1,6 @@
+pega o projeto do Jhony
+Fazer o painel administrativo
+Fazer pagina para cadastro de TEMA
+Fazer pagina para cadastro de MAPA / CADASTRAR MAPA REFERENTE AQUELE TEMA (FAZER UM LOOP NOS TEMAS, PARA SELECIONAR NA HORA DO CADASTRO)
+CRIAÇÃO DAS TELAS/LAYOUT
+BUTÕES DE LISTAGEM / EDIÇÃO/
